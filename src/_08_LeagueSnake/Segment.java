@@ -10,4 +10,12 @@ package _08_LeagueSnake;
  */
 public class Segment {
 	
+	int x;
+	int y;
+	
+	public Segment() {
+		x = 0;
+		y = 0;
+	}
+	
 }
